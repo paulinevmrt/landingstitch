@@ -1,0 +1,17 @@
+.avatar {
+	width: 60px;
+	height: auto;
+	border-radius: 50%;
+} 
+
+
+.logo {
+	width: 200px;
+	height: auto;
+	border-radius: 50%;
+} 
+
+.icon {
+	width: 40px;
+	height: auto;
+} 
